@@ -11,16 +11,5 @@ func twoSum(nums []int, target int) []int {
 		seen[num] = index
 	}
 
-	// for i := 0; i < len(nums); i++ {
-	// 	diff := target - nums[i]
-	// 	num := nums[i]
-	//
-	// 	if j, ok := seen[diff]; ok {
-	// 		return []int{j, i}
-	// 	}
-	//
-	// 	seen[num] = i
-	// }
-
 	return nil
 }
