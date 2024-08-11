@@ -11,6 +11,10 @@
 *.iws
 *.ipr
 
+# CLion files
+cmake-build-debug/
+**/cmake-build-debug/
+
 # Eclipse Files
 .classpath
 .project
