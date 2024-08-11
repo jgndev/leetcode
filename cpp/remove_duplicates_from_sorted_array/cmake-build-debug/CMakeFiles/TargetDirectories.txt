@@ -1,6 +1,0 @@
-/Users/jgnovak/projects/study/dsa/leetcode/cpp/remove_duplicates_from_sorted_array/cmake-build-debug/CMakeFiles/solution.dir
-/Users/jgnovak/projects/study/dsa/leetcode/cpp/remove_duplicates_from_sorted_array/cmake-build-debug/CMakeFiles/test_solution.dir
-/Users/jgnovak/projects/study/dsa/leetcode/cpp/remove_duplicates_from_sorted_array/cmake-build-debug/CMakeFiles/run_tests.dir
-/Users/jgnovak/projects/study/dsa/leetcode/cpp/remove_duplicates_from_sorted_array/cmake-build-debug/CMakeFiles/test.dir
-/Users/jgnovak/projects/study/dsa/leetcode/cpp/remove_duplicates_from_sorted_array/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/jgnovak/projects/study/dsa/leetcode/cpp/remove_duplicates_from_sorted_array/cmake-build-debug/CMakeFiles/rebuild_cache.dir

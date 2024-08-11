@@ -1,8 +1,0 @@
-# ninja log v6
-712	811	1723406049249782865	test_solution	f0eebb1180926bf0
-458	478	1723406048996714899	libsolution.a	28a00aae29ecc013
-1	711	1723406048539452596	CMakeFiles/test_solution.dir/test/test_solution.cpp.o	4151ef7b936d3389
-1	457	1723406048538991262	CMakeFiles/solution.dir/src/solution.cpp.o	79c5fed7c30d6e51
-2	62	1723406081643394859	build.ninja	a41e4262380c3910
-4	706	1723406198214622056	CMakeFiles/test_solution.dir/test/test_solution.cpp.o	4151ef7b936d3389
-706	801	1723406198916457652	test_solution	f0eebb1180926bf0
