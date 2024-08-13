@@ -2,7 +2,11 @@
 // Created by Jeremy Novak on 8/13/24.
 //
 
-#ifndef SOLUTION_H
-#define SOLUTION_H
+#pragma once
 
-#endif //SOLUTION_H
+#include <string>
+
+class Solution {
+public:
+    int roman_int(std::string s);
+};
