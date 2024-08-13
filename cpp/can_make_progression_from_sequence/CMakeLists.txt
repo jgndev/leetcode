@@ -31,18 +31,3 @@ target_link_libraries(test_solution GTest::GTest GTest::Main solution)
 
 # Add the test
 add_test(NAME SolutionTest COMMAND test_solution)
-
-# Set the working directory for the test
-set_tests_properties(SolutionTest PROPERTIES WORKING_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR})
-
-# Print include directories (for debugging)
-get_property(dirs DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR} PROPERTY INCLUDE_DIRECTORIES)
-foreach(dir ${dirs})
-    message(STATUS "Include directory: '${dir}'")
-endforeach()
-
-# Custom target to run tests
-add_custom_target(run_tests
-        COMMAND ${CMAKE_CTEST_COMMAND} --output-on-failure
-        DEPENDS test_solution
-)
