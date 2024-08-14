@@ -4,7 +4,9 @@
 
 #pragma once
 
+#include <string>
+
 class Solution {
   public:
-    int function_name();
+    std::string to_lower_case(std::string s);
 };
