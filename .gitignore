@@ -11,6 +11,9 @@
 *.iws
 *.ipr
 
+# Clang cache
+**/.cache/
+
 # CLion files
 cmake-build-debug/
 **/cmake-build-debug/
