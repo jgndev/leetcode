@@ -1,7 +1,7 @@
 #include "solution.h"
 
 std::vector<int> Solution::sorted_squares(std::vector<int> &nums) {
-  int n = static_cast<int>(nums.size());
+  const int n = static_cast<int>(nums.size());
   std::vector<int> result(n);
 
   int left = 0, right = n - 1;
